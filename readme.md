@@ -1,5 +1,4 @@
 # OrcaCNN-Demo
-My proposal : [https://drive.google.com/open?id=1i2WemA85ZYj-pSh47vzmzsiWCNkdeZ3b](https://drive.google.com/open?id=1i2WemA85ZYj-pSh47vzmzsiWCNkdeZ3b)
 
 This repository contains the code that I have prepared to demonstrate my approach towards the problem of **Detecting and classifying whales from Acoustic data**. These codes will complement my proposal.
 
