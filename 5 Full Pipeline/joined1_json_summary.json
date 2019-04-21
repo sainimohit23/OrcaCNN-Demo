@@ -1,0 +1,17 @@
+{
+  "Length": "12.8sec.",
+  "Filename": "joined1.wav",
+  "Channels": "2",
+  "ChunkLength": "10sec.",
+  "TotalChunks": "2",
+  "ChunkData": {
+    "joined1_0.wav": {
+      "Time": "[4.4, 9.192727272727272]",
+      "Class": "['updownup', 'richochet']"
+    },
+    "joined1_1.wav": {
+      "Time": "[1.2436363636363637]",
+      "Class": "['updownup']"
+    }
+  }
+}

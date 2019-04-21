@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<root>
+	<Length type="str">12.8sec.</Length>
+	<Filename type="str">joined1.wav</Filename>
+	<Channels type="str">2</Channels>
+	<ChunkLength type="str">10sec.</ChunkLength>
+	<TotalChunks type="str">2</TotalChunks>
+	<ChunkData type="dict">
+		<joined1_0.wav type="dict">
+			<Time type="str">[4.4, 9.192727272727272]</Time>
+			<Class type="str">['updownup', 'richochet']</Class>
+		</joined1_0.wav>
+		<joined1_1.wav type="dict">
+			<Time type="str">[1.2436363636363637]</Time>
+			<Class type="str">['updownup']</Class>
+		</joined1_1.wav>
+	</ChunkData>
+</root>
